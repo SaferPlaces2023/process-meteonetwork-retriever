@@ -1,10 +1,9 @@
-# template-cli
+# process-meteonetwork-retriever
 
-**template-cli** is a base **template** to start an easy **Python** command-line program. 
+**`process-meteonetwork-retriever`** is a lightweight Python package for retrieving weather data from the MeteoNetwork API, providing a clean programmatic interface, a command-line tool, and optional deployment as a pygeoapi process.
 
-**template_pygeoapi** is the optional support for a pygeoapi process
 ```
-pip install template-cli[pygeoapi] 
+pip install process-meteonetwork-retriever[pygeoapi] 
 
 pip install .[pygeoapi]
 ```
